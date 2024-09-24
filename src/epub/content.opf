@@ -34,15 +34,17 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The attractions of a young woman provoke both admiration and antipathy in her local town.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Both Rachel Ray’s mother and elder sister are widows. They live a quiet life in their rural village, under the shadow of the nearby town of Baslehurst. When Rachel’s attractions catch the eye of Luke Rowan—a young man recently arrived in town to develop a brewery in which he has a commercial interest—reactions are varied. Her friends are jealous, her pious sister affronted; and Luke’s status in the town suffers a blow. While the nature of Rachel’s attachment to Mr. Rowan provokes speculation, the affairs of others in the town run their own course.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Rachel Ray&lt;/i&gt; is a tale of obstacles to the course of true love, told in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; gentle and well-observed style. Yet Trollope laces this otherwise unexacting narrative with probing explorations of personal morals, religious integrity, and even political prejudice.&lt;/p&gt;
+			&lt;p&gt;It might now seem remarkable that this innocuous novel should have been the focus of controversy on its serial publication, but Trollope’s capacity to display the potentially hypocritical elements in Christian morality drew the ire of certain prominent ministers. If anything, the controversy only fueled its commercial success when published in book form. Since then, its charms have won for it a continuing readership, appreciative of the deft and delicate strokes with which Trollope depicts a few moments in the life of a Devonshire town.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34000</dc:source>
 		<dc:source>https://books.google.com/books?id=jXZbAAAAQAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">This edition incorporates the transcriber corrections made in the Project Gutenberg transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Rachel_Ray</meta>
@@ -52,10 +54,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Oliver Stone</dc:contributor>
+		<meta property="file-as" refines="#artist">Stone, William Oliver</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Oliver_Stone</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2010010200</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Delphine Lettau</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lettau, Delphine</meta>
