@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The attractions of a young woman provoke both admiration and antipathy in her local town.</dc:abstract>
+		<meta property="schema:abstract">The attractions of a young woman provoke both admiration and antipathy in her local town.</meta>
 		<dc:description>
 			&lt;p&gt;Both Rachel Ray’s mother and elder sister are widows. They live a quiet life in their rural village, under the shadow of the nearby town of Baslehurst. When Rachel’s attractions catch the eye of Luke Rowan—a young man recently arrived in town to develop a brewery in which he has a commercial interest—reactions are varied. Her friends are jealous, her pious sister affronted; and Luke’s status in the town suffers a blow. While the nature of Rachel’s attachment to Mr. Rowan provokes speculation, the affairs of others in the town run their own course.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Rachel Ray&lt;/i&gt; is a tale of obstacles to the course of true love, told in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; gentle and well-observed style. Yet Trollope laces this otherwise unexacting narrative with probing explorations of personal morals, religious integrity, and even political prejudice.&lt;/p&gt;
